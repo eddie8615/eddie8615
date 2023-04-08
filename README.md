@@ -2,10 +2,10 @@
 
 
 ### 🎓 Educations
-- I’m currently learning Applied Statistical Modelling and Health Informatics at King's College London
+- I’m a recent graduate from Applied Statistical Modelling and Health Informatics at King's College London
 - My backgournd is Computer Science studied at University of Birmingham
-- Thesis: Forecasting stock return volatility using hybrid neural networks with statistical models (GARCH families)
-- Current dissertation: Emotion analysis of TBI (Traumatic Brain Injury) patients using their audio and transcript file
+- BSc project: Forecasting stock return volatility using hybrid neural networks with statistical models (GARCH families)
+- MSc project: Emotion analysis of acquired brain injury patients using their audio and transcript file
 
 ### 💼 Experience
 - I have worked as Android Developer in few months and published the app onto GooglePlay (but you won't use this because the purpose is only for internal uses)
