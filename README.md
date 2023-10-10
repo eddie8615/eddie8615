@@ -2,8 +2,7 @@
 
 
 ### 🎓 Educations
-- I’m a recent graduate from Applied Statistical Modelling and Health Informatics at King's College London
-- My backgournd is Computer Science studied at University of Birmingham
+- I started PhD at the Institute of Cancer Research (ICR) (10/2023)
 - BSc project: Forecasting stock return volatility using hybrid neural networks with statistical models (GARCH families)
 - MSc project: Emotion analysis of acquired brain injury patients using their audio and transcript file
 
